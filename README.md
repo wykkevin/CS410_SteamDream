@@ -7,7 +7,9 @@ Our project does a sentiment analysis on steam game reviews. We are able to esti
 
 ## 🚨 Prerequisites
 1. Please download the [merged.csv](https://drive.google.com/file/d/1D89yWAHPI2MlvbG30W0WJ_ixC00dEuF2/view?usp=sharing) and upload it to google drive.
+
 or download the dataset from [Kaggle](https://www.kaggle.com/datasets/smeeeow/steam-game-reviews) and process the file using `data_processing.ipynb` and `data_combination.ipynb`
+
 2. Download the `Steam_review.ipynb` file and also upload it to google drive
 
 
